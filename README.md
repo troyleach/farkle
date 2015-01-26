@@ -1,5 +1,5 @@
 Notes
-----
+===================
 
 This is a on going (in my spare time) project.  This is a game that I LOVE to play with family and friends! Now I am able to write this game on my own! I am very excited about this project.
 Any feed back would be great!
@@ -7,10 +7,8 @@ Any feed back would be great!
 -----
 
 
-
 Rules
-===================
-
+----
 Farkle is a simple dice game that has captured the attention and board-game-time of odds-hounds everywhere.
 
 Farkle Scorekeeper and Determining Who Goes First
@@ -23,6 +21,7 @@ You cannot count any of your points until you reach at least 500 points in a sin
 When you reach 500 points for the first time, you may choose to immediately end your turn
 to prevent losing the points, OR take your chances and roll again.
 
+>**Points value**
 5′s = 50 point
 1′s = 100 points
 1,1,1 = 300 points
@@ -54,4 +53,3 @@ Each other player has one turn to try to beat your score. After all remaining pl
 have had their turn, the player with the highest score wins.
 
 -----------------------------------------------------------------------------------------------------------
-
