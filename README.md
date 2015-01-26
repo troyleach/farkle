@@ -22,21 +22,21 @@ When you reach 500 points for the first time, you may choose to immediately end 
 to prevent losing the points, OR take your chances and roll again.
 
 >**Points value**
-5′s = 50 point
-1′s = 100 points
-1,1,1 = 300 points
-2,2,2 = 200 points
-3,3,3 = 300 points
-4,4,4 = 400 points
-5,5,5 = 500 points
-6,6,6 = 600 points
-Four of a Kind = 1,000 points
-Five of a Kind = 2,000 points
-Six of a Kind = 3,000 points
-A Straight of 1-6 = 1,500 points
-Three Pairs = 1,500 points
-Four of a Kind + a Pair = 1,500
-Two sets of Three of a Kind = 2,500
+- 5′s = 50 point
+- 1′s = 100 points
+- 1,1,1 = 300 points
+- 2,2,2 = 200 points
+- 3,3,3 = 300 points
+- 4,4,4 = 400 points
+- 5,5,5 = 500 points
+- 6,6,6 = 600 points
+- Four of a Kind = 1,000 points
+- Five of a Kind = 2,000 points
+- Six of a Kind = 3,000 points
+- A Straight of 1-6 = 1,500 points
+- Three Pairs = 1,500 points
+- Four of a Kind + a Pair = 1,500
+- Two sets of Three of a Kind = 2,500
 
 Your Turn
 On your turn, place all six dice into the dice cup and roll them. If a die falls out of
